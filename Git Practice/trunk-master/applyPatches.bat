@@ -17,5 +17,5 @@ pushd .
 cd patches
 call apply_patches_with_revert.bat
 popd
-
+echo nothing to do here
 :quit
